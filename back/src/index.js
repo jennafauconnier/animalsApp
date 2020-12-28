@@ -6,8 +6,6 @@ const bodyParser = require('body-parser');
 const homeRouter = require('./home/router');
 const animalRouter = require('./animals/router');
 
-// const multer = require('multer');
-// const upload = multer({dest: '/uploads/'});
 
 app.use('/static', express.static(__dirname + '/public'));
 

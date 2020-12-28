@@ -1,0 +1,111 @@
+{
+  "espece":"Chien",
+  "sexe":"Femelle",
+  "age":0.6,
+  "race":"Eurasier"
+}
+
+{
+  "espece":"Chien",
+  "sexe":"Femelle",
+  "age":1,
+  "race":"Golden Retriever"
+}
+
+{
+  "espece":"Chien",
+  "sexe":"Male",
+  "age":2,
+  "race":"Labrador"
+}
+
+{
+  "espece":"Chien",
+  "sexe":"Male",
+  "age":7,
+  "race":"Cocker"
+}
+
+{
+  "espece":"Chien",
+  "sexe":"Femelle",
+  "age":2,
+  "race":"Husky"
+}
+
+{
+  "espece":"Chien",
+  "sexe":"Femelle",
+  "age":0.5,
+  "race":"Border Collie"
+}
+
+{
+  "espece":"Chien",
+  "sexe":"Femelle",
+  "age":1,
+  "race":"Eurasier"
+}
+
+{
+  "espece":"Chien",
+  "sexe":"Male",
+  "age":0.4,
+  "race":"Berger Australien"
+}
+
+{
+  "espece":"Chien",
+  "sexe":"Femelle",
+  "age":6,
+  "race":"Eurasier"
+}
+
+{
+  "espece":"Chien",
+  "sexe":"Femelle",
+  "age":1,
+  "race":"Terre Neuve"
+}
+
+{
+  "espece":"Chien",
+  "sexe":"Male",
+  "age":4,
+  "race":"Berger Allemand"
+}
+
+{
+  "espece":"Chien",
+  "sexe":"Femelle",
+  "age":1,
+  "race":"Berger Blanc Suisse"
+}
+
+{
+  "espece":"Chat",
+  "sexe":"Femelle",
+  "age":0.3,
+  "race":"Sacré de Birmanie"
+}
+
+{
+  "espece":"Chat",
+  "sexe":"Male",
+  "age":0.3,
+  "race":"Sacré de Birmanie"
+}
+
+{
+  "espece":"Chat",
+  "sexe":"Male",
+  "age":2,
+  "race":"Maine Coon"
+}
+
+{
+  "espece":"Chat",
+  "sexe":"Femelle",
+  "age":0.6,
+  "race":"Européen"
+}
